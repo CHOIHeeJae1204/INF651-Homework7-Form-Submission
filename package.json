@@ -1,0 +1,26 @@
+{
+  "name": "inf651-homework7-form-submission",
+  "version": "1.0.0",
+  "description": "Create a view named register.hbs. It must include a form styled with Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHOIHeeJae1204/INF651-Homework7-Form-Submission.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHOIHeeJae1204/INF651-Homework7-Form-Submission/issues"
+  },
+  "homepage": "https://github.com/CHOIHeeJae1204/INF651-Homework7-Form-Submission#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "hbs": "^4.2.0",
+    "multiparty": "^4.2.3"
+  }
+}
